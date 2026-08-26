@@ -1,0 +1,13 @@
+================================================================================
+                    OSIRIS SECURE DATA ERASURE CERTIFICATE
+================================================================================
+Operation ID    : e69b9797-d5b4-4c98-93e9-49481e2dabef
+Timestamp       : 2026-08-26T15:13:11.870625+00:00
+Target Device   : C:\Users\MAANSU\AppData\Local\Temp\tmphv3rw8w3\erase_target.bin
+Erasure Method  : NIST 800-88 / DoD 5220.22-M (3-Pass Overwrite)
+Engine          : SecureWipe (Forked Python Engine)
+Status          : SUCCESS - VERIFIED ERASED
+Passes Executed : 3 (Zero -> Ones -> Random Cryptographic Overwrite)
+Verification    : DoD 5220.22-M Compliant Zero-Remanence Check Passed
+Issued By       : OSIRIS Forensic Data Sanitization Subsystem (PS 26149 NTRO)
+================================================================================

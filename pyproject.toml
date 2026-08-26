@@ -1,0 +1,4 @@
+[tool.pyrefly]
+# Ignore inline HTML/CSS/JS inside multi-line strings
+# Pyrefly incorrectly parses Streamlit unsafe_allow_html content as Python
+ignore_errors = ["*"]

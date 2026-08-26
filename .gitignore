@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directories & temporary targets
+demo_workspace/
+recovery_output/
+recovery_tool_temp/
+*.bin
+*.log
+
+# IDE & Environment
+.idea/
+.vscode/
+.gemini/
+.env
+venv/
+ENV/
