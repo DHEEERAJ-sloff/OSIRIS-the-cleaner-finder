@@ -6,9 +6,14 @@ __pycache__/
 # Output directories & temporary targets
 demo_workspace/
 recovery_output/
+recovery_output_wipe/
 recovery_tool_temp/
 *.bin
 *.log
+
+# Generated demo state (reset by demo_setup.py before each demo)
+certificates/*.txt
+operations_log.json
 
 # IDE & Environment
 .idea/

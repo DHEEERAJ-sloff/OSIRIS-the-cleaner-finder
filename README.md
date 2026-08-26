@@ -35,7 +35,7 @@ OSIRIS is a unified forensic security platform combining standards-compliant dat
 
 1. Clone or navigate to the project directory:
    ```bash
-   cd d:\sih_prooject\OSIRIS
+   cd OSIRIS-the-cleaner-finder
    ```
 
 2. Install required Python packages:
@@ -45,7 +45,7 @@ OSIRIS is a unified forensic security platform combining standards-compliant dat
 
 3. Run the OSIRIS Streamlit Platform:
    ```bash
-   streamlit run src/app.py
+   python -m streamlit run src/app.py
    ```
    *(Note: Raw physical disk wiping or raw physical drive carving requires running your command prompt / terminal as Administrator on Windows or `sudo` on Linux.)*
 
